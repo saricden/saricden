@@ -1,4 +1,4 @@
-# Hello! I'm Kirk, an Open Source Game Developer
+# :space_invader: Hello! I'm Kirk, *an Open Source Game Developer* :space_invader:
 
 I've been creating and publishing my own video games since late 2008 (the days of Flash lol).
 
